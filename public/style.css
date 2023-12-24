@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+}
+.center-div{
+  padding-top: 10%;
+}
+.btn.btn-success{
+  padding: .4em 2em;
+}
+form{
+  padding: 0 3em;
+}
+#login.title>span{
+  font-size: .2em;
+}
